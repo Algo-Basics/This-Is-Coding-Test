@@ -17,7 +17,7 @@
 - 2중 반복문을 사용해 전체 정렬 대상 데이터들을 N-1 만큼 반복하고, 그 안에서 정렬 대상과 비교 대상을 N까지 반복하며 비교한다.
 - 이 때 스와프(swap) 라는 기법을 사용할 수 있다. 안쪽 반복문에서 자리를 바꿀 대상을 임시 변수에 저장한 뒤에 재할당해주는 방법. 즉 배열에서 두 요소의 자리를 변경하는 기법이다.
 - 선택 정렬은 정렬 대상을 N-1 만큼 반복하고, 그 정렬 대상을 비교 대상들과 각각 비교하는 연산을 한다. 따라서 O(N^2)의 시간복잡도를 가진다.
-- [selectionSortAlgorithm](./06*%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/selectionSort.jsThis-Is-Coding-Test\HyeJungPark\06*정렬 알고리즘\selectionSort.js)
+- [selectionSortAlgorithm](./06*%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/selectionSort.js)
 
 ### 삽입 정렬 알고리즘
 
